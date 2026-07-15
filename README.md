@@ -147,7 +147,7 @@ A smart city solution designed to simplify access to essential city services thr
 
 ---
 
-# 🏆 Experience
+# 🏆 Experience & 🎓 Internship
 
 ### Frontend Development Intern
 
@@ -158,8 +158,6 @@ A smart city solution designed to simplify access to essential city services thr
 - Improving UI/UX skills
 
 ---
-
-# 🎓 Internship
 
 ## Indian Institute of Technology Kanpur
 
