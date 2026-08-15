@@ -22,6 +22,12 @@ I believe every project is an opportunity to improve my technical knowledge, ana
 
 ---
 
+# Current life 
+I am attending an internship program at spotnack , and building small project ideas and while learning contents of various felds
+such as linux terminal and tools and cyber security with cloud computing /Meachine learning and other programing various programing languages
+
+---
+
 # Currently Learning
 
 - Frontend Development Internship (Spotnack)
@@ -253,13 +259,12 @@ Technologies explored:
 
 # 2026 Goals
 
-- Build impactful projects
-- Contribute to Open Source
-- Strengthen Cloud Computing skills
-- Improve Frontend Development expertise
+- Build a impactful projects
+- Strengthen my Cloud Computing skills
+- Improve my Frontend Development expertise
 - Explore Artificial Intelligence
-- Learn DevOps fundamentals
 - Earn more industry certifications
+- Learn a musical guitar 
 
 ---
 
