@@ -1,4 +1,4 @@
-# Hi, I'm Prince 👋
+# Hi, I'm Prince 
 
 ### B.Sc. Information Technology Student | Frontend Developer
 
@@ -15,7 +15,7 @@
 
 ---
 
-# 👨‍💻 About Me
+# About Me
 
 I'm **Prince**, a **B.Sc. Information Technology** student with a passion for technology and continuous learning.
 
@@ -23,15 +23,15 @@ I enjoy building practical software solutions while exploring **Frontend Develop
 
 I believe every project is an opportunity to improve my technical knowledge, analytical thinking, and problem-solving skills.
 
-- 🎓 B.Sc. Information Technology
-- 💻 Frontend Developer
-- 🌱 Currently learning Cloud & Cyber Security
-- 🚀 Passionate about Open Source
-- ⚡ Always curious to learn something new
+- B.Sc. Information Technology
+- Frontend Developer
+- Currently learning Cloud & Cyber Security
+- Passionate about Open Source
+- Always curious to learn something new
 
 ---
 
-# 🌱 Currently Learning
+# Currently Learning
 
 - Frontend Development Internship (Spotnack)
 - Cyber Security
@@ -41,9 +41,9 @@ I believe every project is an opportunity to improve my technical knowledge, ana
 
 ---
 
-# 💼 Featured Project
+# Featured Project
 
-## 🏙️ City Solus
+## City Solus
 
 A smart city solution designed to simplify access to essential city services through a clean and user-friendly interface.
 
@@ -64,7 +64,7 @@ A smart city solution designed to simplify access to essential city services thr
 
 ---
 
-# 🛠 Programming Languages
+# Programming Languages
 
 <p>
 
@@ -82,7 +82,7 @@ A smart city solution designed to simplify access to essential city services thr
 
 ---
 
-# 🌐 Web Technologies
+# Web Technologies
 
 <p>
 
@@ -96,7 +96,7 @@ A smart city solution designed to simplify access to essential city services thr
 
 ---
 
-# 🗄 Databases
+# Databases
 
 <p>
 
@@ -110,7 +110,7 @@ A smart city solution designed to simplify access to essential city services thr
 
 ---
 
-# ⚙️ Tools & Platforms
+# Tools & Platforms
 
 <p>
 
@@ -136,7 +136,7 @@ A smart city solution designed to simplify access to essential city services thr
 
 ---
 
-# 🐧 Operating Systems
+# Operating Systems
 
 - Windows 11
 - Windows 10
@@ -147,7 +147,7 @@ A smart city solution designed to simplify access to essential city services thr
 
 ---
 
-# 🏆 Experience & 🎓 Internship
+# Experience & Internship
 
 ### Frontend Development Intern
 
@@ -175,9 +175,9 @@ Technologies explored:
 
 ---
 
-# 📜 Certifications
+# Certifications
 
-## ☁ Google Cloud
+## Google Cloud
 
 - App Engine: 3 Ways Skill Badge
 - Build a Website on Google Cloud
@@ -189,7 +189,7 @@ Technologies explored:
 
 ---
 
-## 🤖 IBM
+## IBM
 
 - Cyber Security Analyst
 - Cybersecurity Tools & Cyberattacks Fundamentals
@@ -197,7 +197,7 @@ Technologies explored:
 
 ---
 
-## 🍃 MongoDB
+## MongoDB
 
 - Building AI Agents
 - MongoDB Basics
@@ -207,13 +207,13 @@ Technologies explored:
 
 ---
 
-## 📊 Celonis
+## Celonis
 
 - Academic Process Mining Fundamentals
 
 ---
 
-# 🎯 Areas of Interest
+# Areas of Interest
 
 - Frontend Development
 - Cloud Computing
@@ -225,7 +225,7 @@ Technologies explored:
 
 ---
 
-# 📈 GitHub Statistics
+# GitHub Statistics
 
 <p align="center">
 
@@ -237,25 +237,6 @@ Technologies explored:
 
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Prince-09062006&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prince-09062006&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
 
 # 🤝 Connect With Me
 
@@ -283,14 +264,14 @@ Technologies explored:
 
 ---
 
-# 💡 Tech Philosophy
+# Tech Philosophy
 
 > **"Fix your PC when it is broken.  
 > It will fix you when you are broken."**
 
 ---
 
-# 🎯 2026 Goals
+# 2026 Goals
 
 - Build impactful projects
 - Contribute to Open Source
@@ -307,7 +288,5 @@ Technologies explored:
 ### Thanks for visiting my profile!
 
 *"Learning never exhausts the mind."*
-
-⭐ **If you like my work, consider starring my repositories.**
 
 </div>
