@@ -4,15 +4,6 @@
 
 > *Building practical software, exploring cloud technologies, and continuously improving one project at a time.*
 
-<p align="left">
-  <a href="https://github.com/Prince-09062006">
-    <img src="https://komarev.com/ghpvc/?username=Prince-09062006&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  </a>
-  <a href="https://github.com/Prince-09062006?tab=followers">
-    <img src="https://img.shields.io/github/followers/Prince-09062006?label=Followers&style=social" />
-  </a>
-</p>
-
 ---
 
 # About Me
