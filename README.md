@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Screenshot_2026-07-27-19-13-55-88" width="150" height="150" style="border-radius:50%;">
+</p>
+
 # Hi, I'm Prince 
 
 ### B.Sc. Information Technology Student | Frontend Developer
