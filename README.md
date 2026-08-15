@@ -27,8 +27,8 @@ I believe every project is an opportunity to improve my technical knowledge, ana
 ---
 
 # Current life 
-I am attending an internship program at spotnack , and building small project ideas and while learning contents of various felds
-such as linux terminal and tools and cyber security with cloud computing /Meachine learning and other programing various programing languages
+I am attending an internship program at spotnack for frountend web development , and building small project ideas and while learning contents of various felds
+such as linux terminal and tools and cyber security with cloud computing /Meachine learning and other programing various programing languages.
 
 ---
 
