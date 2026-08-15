@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Screenshot_2026-07-27-19-13-55-889_com.miui.gallery-edit.jpg" width="150" height="150" style="border-radius:80%;">
+  <img src="Screenshot_2026-07-27-19-13-55-889_com.miui.gallery-edit.jpg" width="200" height="200";">
 </p>
 
 # Hi, I'm Prince 
