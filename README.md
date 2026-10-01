@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Screenshot_2026-09-13-02-32-52-025_com.mi.android.globalFileexplorer-edit.jpg" width="230" height="250";">
+<img src="Screenshot_2026-09-13-02-32-52-025_com.mi.android.globalFileexplorer-edit.jpg" width="230" height="250";">
 </p>
 
 # Hi, I'm Prince 
@@ -272,19 +272,27 @@ Technologies explored:
 
 ---
 
+<h2 align="center"> GitHub Stats</h2>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Prince-09062006&show_icons=true&locale=en&layout=compact" alt="Prince.B" />
+<img src="https://github-readme-stats.vercel.app/api?username=Prince-09062006&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"
+alt="Prince.B GitHub Stats"
+height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prince-09062006&layout=compact&hide_border=true&langs_count=8"
+alt="Prince.B Top Languages"
+height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prince-09062006&show_icons=true&locale=en" alt="Prince.B" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Prince-09062006&hide_border=true"
+alt="Prince.B GitHub Streak"
+/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prince-09062006" alt="Prince.B" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prince-09062006&hide_border=true&area=true"
+alt="Prince.B Contribution Graph"/>
 </p>
-
-<div align="center">
 
 ### Thanks for visiting my profile!
 
