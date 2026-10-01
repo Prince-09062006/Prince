@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Screenshot_2026-09-13-02-32-52-025_com.mi.android.globalFileexplorer-edit.jpg" width="200" height="200";">
+  <img src="Screenshot_2026-09-13-02-32-52-025_com.mi.android.globalFileexplorer-edit.jpg" width="230" height="250";">
 </p>
 
 # Hi, I'm Prince 
