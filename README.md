@@ -272,6 +272,18 @@ Technologies explored:
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Prince-09062006&show_icons=true&locale=en&layout=compact" alt="Prince.B" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Prince-09062006&show_icons=true&locale=en" alt="Prince.B" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prince-09062006" alt="Prince.B" />
+</p>
+
 <div align="center">
 
 ### Thanks for visiting my profile!
